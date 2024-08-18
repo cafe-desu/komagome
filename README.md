@@ -1,1 +1,2 @@
-# komagome
+# This project is under development.
+Please wait a moment...
