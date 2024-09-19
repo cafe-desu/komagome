@@ -1,0 +1,134 @@
+@charset "utf-8";
+@import url(https://fonts.gstatic.com/s/notosansjp/v53/-F62fjtqLzI2JPCgQBnw7HFowwII2lcnk-AFfrgQrvWXpdFg3KXxAMsKMbdN.0.woff2);
+
+.front{
+    text-align:left;
+}
+
+a{
+    color:#0000FF; 
+    text-decoration:none; 
+}
+.midashi1{
+    font-size: 40px;
+    margin-left:4%;
+    margin-top: 10%;
+}
+.midashi2{
+    font-size: 40px;
+    margin-left:4%;
+    margin-top:10%;
+}
+.midashi3{
+    font-size: 40px;
+    margin-left:4%;
+    margin-top:10%;
+}
+
+.midashi4{
+    font-size:25px;
+    margin-left:4%;
+    margin-top:10%;
+}
+body {
+    margin: 10px;
+    padding: 10px;
+    color:(29, 29, 31);
+ }
+
+ h1.front{
+    letter-spacing: 2px
+ }
+.sen{
+    border-bottom: 2px solid rgb(114, 114, 114);
+    margin: 25px;
+
+}
+.front1{
+    text-align: right;
+}
+a.komagome {
+	text-align: center;
+	text-decoration: none;
+	width: 60px;
+	margin: 25px;
+	padding: 1.2rem 3rem;
+	font-weight: bold;
+	border: 2px solid #6d6d6d;
+	color: #585858;
+	transition: 0.5s;
+    font-size: 25px;
+}
+.shoukai1{
+background-color: rgb(245, 245, 245);
+width: 80%;
+height: 400px;
+padding: 5%;
+margin-left:4%;
+letter-spacing: 3px;
+font-size : 20px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+border-bottom-right-radius: 30px;
+border-bottom-left-radius: 30px;
+
+}
+.shoukai2{
+    background-color: rgb(245, 245, 245);
+    width: 80%;
+    height: 400px;
+    padding: 5%;
+    margin-left:4%;
+    letter-spacing: 3px;
+    font-size : 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+    }
+    .shoukai3{
+        background-color: rgb(245, 245, 245);
+        width: 80%;
+        height: 400px;
+        padding: 5%;
+        margin-left:4%;
+        letter-spacing: 3px;
+        font-size : 20px;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 30px;
+        
+        }
+a.komagome:hover {
+	color: #fff;
+	background: #626262;
+}
+
+.sentence{
+    margin:20px;
+}
+.img1{
+    text-align: center;
+    width: 90%;
+    height: 90%;
+    background-color: #eeecec;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin: 40px;
+}
+.img2{
+    text-align: center;
+    width: 90%;
+    height: 90%;
+    background-color: #eeecec;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin: 40px;
+    
+}
