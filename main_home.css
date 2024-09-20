@@ -4,8 +4,7 @@
 .front{
     text-align:left;
 }
-
-.img3{
+#img3{
     text-align: right;
     width: 35%;
     height: 35%;
@@ -14,7 +13,7 @@
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
 }
-.img4{
+#img4{
     text-align: right;
     width: 35%;
     height: 35%;
@@ -79,14 +78,14 @@ a.komagome {
 	transition: 0.5s;
     font-size: 25px;
 }
-.shoukai1{
+#shoukai1{
 background-color: rgb(245, 245, 245);
 width: 80%;
-height: 400px;
-padding: 5%;
+height: 80%px;
+padding: 3%;
 margin-left:4%;
 letter-spacing: 3px;
-font-size : 20px;
+font-size : 25px;
 border-top-left-radius: 30px;
 border-top-right-radius: 30px;
 border-bottom-right-radius: 30px;
@@ -157,13 +156,13 @@ a.touhyou{
     text-align: center;
 	text-decoration: none;
 	width: 5%;
-	margin: 8%;
-	padding: 8rem 16rem;
+	margin: 1%;
+	padding: 4% 16%;
 	font-weight: bold;
 	border: 2px solid #6d6d6d;
 	color: #585858;
 	transition: 0.5s;
-    font-size: 70px;
+    font-size: 500%;
 }
 a.touhyou:hover {
 	color: #fff;
@@ -171,5 +170,5 @@ a.touhyou:hover {
 }
 .button{
     text-align: center;
-    margin-top:200px;
+    margin-top:20%;
 }
