@@ -1,10 +1,27 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap');
 
-
 .front{
     text-align:left;
-	
+}
+
+.img3{
+    text-align: right;
+    width: 35%;
+    height: 35%;
+    margin-left:72%;
+    margin-top: -37%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.img4{
+    text-align: right;
+    width: 35%;
+    height: 35%;
+    margin-left:71%;
+    margin-top: -28%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
 
 a{
@@ -36,7 +53,7 @@ body {
     margin: 10px;
     padding: 10px;
     color:(29, 29, 31);
-    font-family: "Noto Sans JP"
+    font-family: "Noto Sans JP", sans-serif;
  }
 
  h1.front{
@@ -134,4 +151,25 @@ a.komagome:hover {
     border-bottom-left-radius: 30px;
     margin: 40px;
     
+}
+
+a.touhyou{
+    text-align: center;
+	text-decoration: none;
+	width: 5%;
+	margin: 8%;
+	padding: 8rem 16rem;
+	font-weight: bold;
+	border: 2px solid #6d6d6d;
+	color: #585858;
+	transition: 0.5s;
+    font-size: 70px;
+}
+a.touhyou:hover {
+	color: #fff;
+	background: #626262;
+}
+.button{
+    text-align: center;
+    margin-top:200px;
 }
