@@ -7,9 +7,11 @@ function isSmartPhone() {
       }
       else{
         console.log("screen1")
+          document.getElementById('css').innerHTML = '<p>aaaaaaaa</p>';
       }
     } else {
       console.log("toosmall");
+        document.getElementById('css').innerHTML = '<p>jhsdfkjdsf</p>';
     }
   }
   function loadingHTML() {
