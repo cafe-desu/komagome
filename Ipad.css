@@ -53,6 +53,20 @@ a{
     margin-left:4%;
     margin-top:10%;
 }
+#shoukai4{
+    background-color: rgb(245, 245, 245);
+    width: 80%;
+    height: 80%px;
+    padding: 3%;
+    margin-left:4%;
+    letter-spacing: 3px;
+    font-size : 25px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+    }
 body {
     margin: 10px;
     padding: 10px;
